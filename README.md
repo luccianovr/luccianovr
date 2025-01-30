@@ -28,6 +28,8 @@ Soy programador apasionado por el desarrollo de software. En este momento estoy 
 
 ![Static Badge](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js&logoColor=%23FFFF&color=%234FC08D)
 ![Static Badge](https://img.shields.io/badge/nuxt-black?style=for-the-badge&logo=nuxt&logoColor=%23FFFF&color=%2300DC82)
+![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=%233776AB)
+
 
 #### - Plantai Backend
 ![Static Badge](https://img.shields.io/badge/plantai-blue?style=for-the-badge)
@@ -35,3 +37,4 @@ Soy programador apasionado por el desarrollo de software. En este momento estoy 
 #### - Contacto
 [![Static Badge](https://img.shields.io/badge/correo-white?style=for-the-badge&logo=gmail)](mailto:luciano.villagran2017@umce.cl)
 [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&color=%230e76a8)](https://www.linkedin.com/in/luciano-villagr%C3%A1n-1a7a66227/)
+
